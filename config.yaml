@@ -1,0 +1,5 @@
+app:
+  port: 3000
+  database:
+    uri: 'mongodb+srv://bankthanakit:0861460819zx@cluster0.gwdj0mb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
+    dbname: 'mock_up'
