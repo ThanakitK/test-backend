@@ -12,6 +12,7 @@ import (
 
 func init() {
 	config.NewAppInitEnvironment()
+
 }
 
 func main() {
